@@ -1,1 +1,1 @@
-A couple basic exercises with Tensorflow and Keras, using Jupyter Notebooks.
+Some few basic exercises with Tensorflow and Keras, using Jupyter Notebooks.
